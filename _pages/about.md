@@ -99,10 +99,28 @@ Grader for *Math 331 (Ordinary Differential Equations)* Fall, 2013
 
 <span class='anchor' id='-talks'></span>
 
-# 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+# 🏛️ Talks
+*Bertini's theorem over finite fields and Frobenius nonclassical varieties*, June 23th, 2023. Sichuan University, Invited talk.     
+*Torsion points of abelian varieties over torsion fields*, June 9th, 2023. Shanghai Jiao Tong University, Invited talk.  
+*Torsion points of abelian varieties over torsion fields*, October 21st, 2022. University of Electronic Science and Technology of China, Invited talk.  
+*Torsion points of abelian varieties over torsion fields*, December 18th, 2021. Sichuan University, Invited talk.   
+*Torsion points of abelian varieties over large fields*, November 20, 2021. Capital Normal University, Invited talk.   
+*Torsion points of abelian varieties over large fields*, November 16, 2021. Amherst College, Five College Number Theory Seminar 2021, Invited talk.  
+*Principal version of the Chebotarev density theorem and class group*, August 19, 2021. Young Researchers in Algebraic Number Theory 2021.  
+*Bertini's theorem over finite field and Frobenius nonclassical varieties*, April 24, 2021. Colorado State University, Front Range Number Theory Day, Invited talk.  
+*Bertini's theorem over finite field and Frobenius nonclassical varieties*, April 8, 2021. Simon Fraser University, Number Theory and Algebraic Geometry Seminar, Invited talk.  
+*Irreducibility of 3-dimensional selfdual  representations and Tate conjecture*, October 8, 2020. Sichuan University, Invited talk.  
+*An application of Fontaine-Mazur conjecture to Tate conjecture*, February 26, 2020. Johns Hopkins University, Number Theory Seminar at Johns Hopkins University, Invited talk.  
+*An application of Fontaine-Mazur conjecture to Tate conjecture*, February 9, 2020. Occidental College, Number   Theory   Series   in  Los   Angeles   II.  
+*Comparison of 3-dimensional Galois representations by computational method*, January 18, 2020. Denver, Joint Mathematics Meeting.  
+*Irreducibility of 3-dimensional selfdual  representations and Tate conjecture*, Januray 10, 2020. Southwest Jiaotong University, Invited talk.  
+*Fontaine-Mazur conjecture and its application to Tate conjecture*, November 16, 2019. Colorado State University, Front Range Number Theory Day.  
+*Factorization of Hasse-Weil zeta functions of Dwork surfaces*, April 11, 2019. University of California, Irvine, Invited talk.  
+*Faltings-Serre method on three dimensional representations*, January 4, 2019. Sichuan Normal University, Invited talk.  
+*Galois representation of Dwork surfaces*, August 21, 2018. MIT, Arithmetic Geometry, Number Theory, and Computation. 
+ 
+
+
 
 <span class='anchor' id='-others'></span>
 
