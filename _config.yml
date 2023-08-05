@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lian Duan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Assistant professor at IMS of ShanghaiTech"
+  bio              : "Assistant professor"
   location         : "Pudong, Shanghai, China"
-  employer         : #"Hefei General Machinery Research Institute"
+  employer         : "IMS of ShanghaiTech"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "duanlian@Shanghaitech.edu.cn"
