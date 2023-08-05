@@ -21,17 +21,9 @@ Besides mathematics, I am a fan of [JRPG](https://en.wikipedia.org/wiki/History_
 
 <span class='anchor' id='-papers'></span>
 
-# 📝 Publications and preprints
+# 📝 Publications 
 
 ---
-- Shamil Asgarli `Lian Duan`, Kuan-Wen Lai. *Frobenius nonclassical hypersurfaces*.   
-Submitted, 2022. [[ArXiv]](https://arxiv.org/abs/2207.11981)
-
-- `Lian Duan`, Kelly Emmrich, Ning Ma, Xiyuan Wang. *Nonsplitting of the Hilbert exact sequence and the principal Chebotarev density theorem*.  
-  Submitted, 2021. [[ArXiv]](https://arxiv.org/abs/2109.01217)
-
-- Shamil Asgarli `Lian Duan`, Kuan-Wen Lai. *Transverse linear subspaces to hypersurfaces over finite fields*.  
-  Submitted, 2022. [[ArXiv]](https://arxiv.org/abs/2008.11306).
 
 - Jeff Achter, `Lian Duan`,  Xiyuan Wang. *On the essential torsion finiteness of abelian varieties over torsion fields*.  
 Accepted, to be published in Nagoya Mathematical Journal.[[ArXiv]](https://doi.org/10.48550/arXiv.2305.19134)
@@ -58,7 +50,21 @@ Accepted, to be published in Nagoya Mathematical Journal.[[ArXiv]](https://doi.o
 
 
 - `Lian Duan`, Guohua Peng. *Some results on non congruent numbers*.  
-Journal of Sichuan University (Natural Science Edition)2015,52(4),741-747. 
+Journal of Sichuan University (Natural Science Edition)2015,52(4),741-747.
+
+
+# 📝 Preprints
+
+---
+
+- Shamil Asgarli `Lian Duan`, Kuan-Wen Lai. *Frobenius nonclassical hypersurfaces*.   
+Submitted, 2022. [[ArXiv]](https://arxiv.org/abs/2207.11981)
+
+- `Lian Duan`, Kelly Emmrich, Ning Ma, Xiyuan Wang. *Nonsplitting of the Hilbert exact sequence and the principal Chebotarev density theorem*.  
+  Submitted, 2021. [[ArXiv]](https://arxiv.org/abs/2109.01217)
+
+- Shamil Asgarli `Lian Duan`, Kuan-Wen Lai. *Transverse linear subspaces to hypersurfaces over finite fields*.  
+  Submitted, 2022. [[ArXiv]](https://arxiv.org/abs/2008.11306).
 
 
 
