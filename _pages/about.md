@@ -49,7 +49,7 @@ Accepted, to be published in Nagoya Mathematical Journal.[[ArXiv]](https://doi.o
  Journal of Number Theory, 210 (2020),  389–415. [[DOI]](https://doi.org/10.1016/j.jnt.2019.09.020)[[ArXiv]](https://arxiv.org/abs/1809.08693)
 
 
-- `Lian Duan`, Guohua Peng. *Some results on non congruent numbers*.
+- `Lian Duan`, Guohua Peng. *Some results on non congruent numbers*.  
 Journal of Sichuan University (Natural Science Edition)2015,52(4),741-747. 
 
 
