@@ -25,14 +25,19 @@ Besides mathematics, I am a fan of [JRPG](https://en.wikipedia.org/wiki/History_
 
 ---
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
-
 - Jeff Achter, `Lian Duan`,  Xiyuan Wang. *On the essential torsion finiteness of abelian varieties over torsion fields*. Accepted, to be published in Nagoya Mathematical Journal. [[ArXiv]](https://doi.org/10.48550/arXiv.2305.19134)
 
 - `Lian Duan`, Xiyuan Wang. *Irreducibility of geometric Galois representations and the Tate conjecture for a family of elliptic surfaces*. Mathematical Research Letters, Volume 28, Number 5, 1353–1378, 2021. [[DOI]](https://intlpress.com/site/pub/files/_fulltext/journals/mrl/2021/0028/0005/MRL-2021-0028-0005-a004.pdf)[[ArXiv]](https://arxiv.org/abs/2001.07818)
 
-- `Lian Duan`, Ning Ma, Shaoyun Yi. *Generalizations of Alladi's formula for arithmetical semigroups*. The Ramanujan Journal (2022).[[DOI]](https://link.springer.com/article/10.1007/s11139-021-00531-7?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata)[[ArXiv]](https://arxiv.org/abs/2102.08568) 
+- `Lian Duan`, Ning Ma, Shaoyun Yi. *Generalizations of Alladi's formula for arithmetical semigroups*. The Ramanujan Journal (2022).[[DOI]](https://link.springer.com/article/10.1007/s11139-021-00531-7?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata)[[ArXiv]](https://arxiv.org/abs/2102.08568)
+
+- `Lian Duan`, Biao Wang, Shaoyun Yi. *Analogues of Alladi's formula over global function fields*. Finite Fields and Their Applications, 74 (2021). [[DOI]](https://doi.org/10.1016/j.ffa.2021.101874)[[ArXiv]](https://arxiv.org/abs/2010.11069)
+
+- `Lian Duan`. *Faltings Serre method on three dimensional selfdual representations*. Mathematics of Computation,  90 (2021), no. 328, 931–951. [[DOI]](https://www-ams-org.ezproxy2.library.colostate.edu/journals/mcom/2021-90-328/S0025-5718-2020-03591-1/)[[ArXiv]](https://arxiv.org/abs/1908.03321)
+
+- Shamil Asgarli, `Lian Duan`, Kuan-Wen Lai. *Transverse lines to surfaces over finite fields*. manuscripta mathematica, 165 (2021), no. 1-2, 135–157. [[DOI]](https://doi.org/10.1007/s00229-020-01200-7) [[ArXiv]](https://arxiv.org/abs/1903.08845)
+
+- `Lian Duan`. *alois action on the N\'eron-Severi group of Dwork surfaces*. Journal of Number Theory, 210 (2020),  389–415. [[DOI]](https://doi.org/10.1016/j.jnt.2019.09.020)[[ArXiv]](https://arxiv.org/abs/1809.08693)
 
 
 
