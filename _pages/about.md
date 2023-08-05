@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span class='anchor' id='-about-me'></span>
 
 I am an assistant professor at the [Institute of Mathematics Science](https://ims.shanghaitech.edu.cn/ims_en/) of [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). My research areas include arithmetic geometry, number theory, and algebraic geometry. In particular, I am interested in the connection between (l-adic) Galois representations and their application in arithmetic geometry and algebraic number theory. In addition, I am also working on some projects in algebraic geometry over finite fields and the computational aspects of all the above. More information about me can be found in my [CV](../assets/resume(2023).pdf). 
 
