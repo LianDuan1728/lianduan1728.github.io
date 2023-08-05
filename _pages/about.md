@@ -73,10 +73,29 @@ Submitted, 2022. [[ArXiv]](https://arxiv.org/abs/2207.11981)
 
 <span class='anchor' id='-teaching'></span>
 
-# 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+# 💻  Teaching
+---
+Lecturer for *Algebra* Fall, 2023   
+Lecturer for *Linear algebra II*  Spring, 2023  
+Lecturer for *Algebra* Fall, 2022  
+Lecturer for *Math 156 (Calculus for computer science)* Spring, 2022  
+Lecturer for *Math 156 (Calculus for computer science)* Fall, 2021  
+Lecturer for *Math 369 (Linear Algebra)* Fall, 2021  
+Lecturer for *Math 261 (Calculus III)* Spring, 2021  
+Lecturer for *Math 160/161/261 (Calculus I, II, III)* Fall, 2020  
+Lecturer for *Math 101 (Math in the Social Sciences)* all, 2020  
+Lecturer for *Math 369 (Linear Algebra)* Spring, 2020  
+Lecturer for *Math 161 (Calculus II)* Fall, 2019  
+Lecturer for *Math 235 (Introduction to Linear Algebras)* Spring, 2019  
+Lecturer for *Math 132 (Calculus II)* Spring, 2018 - Fall, 2018  
+Teaching Assistant for *Math 455 (Introduction to Discrete Structures)* Fall, 2017  
+Lecturer for *Math 235 (Introduction to Linear Algebra)*  Summer, 2017  
+Lecturer for *Math 132 (Calculus II)*  Fall, 2016 - Spring, 2017  
+Teaching Assistant for *Math 132 (Calculus II)*  Spring, 2015 - Spring, 2016  
+Teaching Assistant for *Math 131 \& 132 (Calculus I \& II)*  Summer, 2014  
+Grader for *Math 532 (Introduction Modern Analysis I)* Spring, 2014  
+Grader for *Math 331 (Ordinary Differential Equations)* Fall, 2013
+
 
 <span class='anchor' id='-talks'></span>
 
