@@ -25,6 +25,9 @@ Besides mathematics, I am a fan of [JRPG](https://en.wikipedia.org/wiki/History_
 
 ---
 
+- -	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
+[[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+
 - Jeff Achter, `Lian Duan`,  Xiyuan Wang. *On the essential torsion finiteness of abelian varieties over torsion fields*.
  Accepted, to be published in Nagoya Mathematical Journal. [[ArXiv]](https://doi.org/10.48550/arXiv.2305.19134)
 </div>
