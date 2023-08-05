@@ -19,7 +19,7 @@ Besides mathematics, I am a fan of [JRPG](https://en.wikipedia.org/wiki/History_
 
 
 
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-papers'></span>
 
 # 📝 论文专利
 
