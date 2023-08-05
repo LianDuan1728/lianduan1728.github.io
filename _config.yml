@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lian Duan's personal website"
-description              : "Assistant professor at IMS of ShanghaiTech"
+description              : #"Assistant professor at IMS of ShanghaiTech"
 repository               : #"tangjyan/tangjyan.github.io"
 google_scholar_stats_use_cdn : false
 
