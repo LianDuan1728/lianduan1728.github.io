@@ -25,9 +25,11 @@ Besides mathematics, I am a fan of [JRPG](https://en.wikipedia.org/wiki/History_
 # 📝 Publications 
 
 ---
+- Shamil Asgarli `Lian Duan`, Kuan-Wen Lai. *Transverse linear subspaces to hypersurfaces over finite fields*.  
+ Finite Fields and Their Applications, Volume 95, 2024,102396.  [[DOI]](https://www.sciencedirect.com/science/article/abs/pii/S1071579724000352)[[ArXiv]](https://arxiv.org/abs/2008.11306).
 
 - Jeff Achter, `Lian Duan`,  Xiyuan Wang. *On the essential torsion finiteness of abelian varieties over torsion fields*.  
-Accepted, to be published in Nagoya Mathematical Journal.[[ArXiv]](https://doi.org/10.48550/arXiv.2305.19134)
+ Nagoya Mathematical Journal. 2024;253:91-127.[[DOI]](https://www.cambridge.org/core/journals/nagoya-mathematical-journal/article/abs/on-the-essential-torsion-finiteness-of-abelian-varieties-over-torsion-fields/EF834A98033244D5B0216659BD3022E0)[[ArXiv]](https://doi.org/10.48550/arXiv.2305.19134)
 
 
 - `Lian Duan`, Xiyuan Wang. *Irreducibility of geometric Galois representations and the Tate conjecture for a family of elliptic surfaces*.  
@@ -64,8 +66,6 @@ Submitted, 2022. [[ArXiv]](https://arxiv.org/abs/2207.11981)
 - `Lian Duan`, Kelly Emmrich, Ning Ma, Xiyuan Wang. *Nonsplitting of the Hilbert exact sequence and the principal Chebotarev density theorem*.  
   Submitted, 2021. [[ArXiv]](https://arxiv.org/abs/2109.01217)
 
-- Shamil Asgarli `Lian Duan`, Kuan-Wen Lai. *Transverse linear subspaces to hypersurfaces over finite fields*.  
-  Submitted, 2022. [[ArXiv]](https://arxiv.org/abs/2008.11306).
 
 
 
@@ -76,6 +76,7 @@ Submitted, 2022. [[ArXiv]](https://arxiv.org/abs/2207.11981)
 
 # 💻  Teaching
 ---
+Lecturer for *Linear algebra II*  Spring, 2024  
 Lecturer for *Algebra* Fall, 2023   
 Lecturer for *Linear algebra II*  Spring, 2023  
 Lecturer for *Algebra* Fall, 2022  
